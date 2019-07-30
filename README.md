@@ -1,3 +1,3 @@
 # speed-typing-test
 
-Speed Typing Test made for practice with simple html and javascript
+https://magikarpp.github.io/speed-typing-test/
